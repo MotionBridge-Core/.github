@@ -1,26 +1,19 @@
-<div align="center">
 
-<h1>
-  <img src="./logo.png" alt="MotionBridge Logo" width="50" style="vertical-align: middle; margin-right: 10px;" />
-  <span>MotionBridge</span>
-</h1>
-
-<p align="center">
+<p align="left" style="margin-top: -6px; margin-bottom: 6px;">
   <code>Biomarker</code> &nbsp;•&nbsp; <code>3D MotionCapture</code> &nbsp;•&nbsp; <code>Sports Engineering</code>
 </p>
 
-[![Domain](https://img.shields.io/badge/Domain-Biomechanics%20%26%20Motion%20AI-0066FF?style=flat-square)](#)
-[![Inquiry](https://img.shields.io/badge/Inquiry-partner%40motionbridge.kr-0A66C2?style=flat-square)](mailto:partner@motionbridge.kr)
-[![R&D Lead](https://img.shields.io/badge/R%26D%20Lead-%40whymv-238636?style=flat-square&logo=github&logoColor=white)](https://github.com/whymv)
-
-<br/>
+<p align="left" style="margin-top: 0;">
+  <a href="#"><img src="https://img.shields.io/badge/Domain-Biomechanics%20%26%20Motion%20AI-0066FF?style=flat-square" alt="Domain" /></a>
+  <a href="mailto:partner@motionbridge.kr"><img src="https://img.shields.io/badge/Inquiry-partner%40motionbridge.kr-0A66C2?style=flat-square" alt="Inquiry" /></a>
+  <a href="https://github.com/whymv"><img src="https://img.shields.io/badge/R%26D%20Lead-%40whymv-238636?style=flat-square&logo=github&logoColor=white" alt="R&D Lead" /></a>
+</p>
 
 > **Building advanced motion analysis technologies and digital solutions for healthcare, sports, and rehabilitation.**  
 > 모션브릿지는 모션 분석 기술을 기반으로 헬스케어, 스포츠, 재활 분야의 실질적인 디지털 솔루션을 연구·개발합니다.
 
 </div>
 
----
 
 ## 🎯 What We Do (Core Solutions)
 
@@ -37,7 +30,6 @@
 * **Ready-to-Use Delivery**: Streamlines the entire workflow from simple video input to actionable dashboards and reports ready for immediate field use.
 * **Proven Domain Expertise**: Backed by extensive hands-on experience across hospitals, specialized rehabilitation centers, sports teams, and motion analysis labs.
 
----
 
 ## 👥 Our Team
 > **From lab innovation to field deployment: Delivering practical, ready-to-deploy solutions through seamless collaboration across R&D researchers, field specialists, and business operations.**  
