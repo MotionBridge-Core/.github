@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <img src="https://raw.githubusercontent.com/MotionBridge/.github/main/assets/logo.png" alt="MotionBridge Logo" width="50" style="vertical-align: middle; margin-right: 10px;" />
+  <img src="./logo.png" alt="MotionBridge Logo" width="50" style="vertical-align: middle; margin-right: 10px;" />
   <span>MotionBridge</span>
 </h1>
 
