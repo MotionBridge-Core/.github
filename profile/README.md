@@ -1,12 +1,14 @@
+<div align="center">
 
-<p align="left" style="margin-top: -6px; margin-bottom: 6px;">
-  <code>Biomarker</code> &nbsp;•&nbsp; <code>3D MotionCapture</code> &nbsp;•&nbsp; <code>Sports Engineering</code>
+<p align="center" style="margin-bottom: 8px;">
+  <code>Digital Biomarkers</code> &nbsp;•&nbsp; <code>Markerless 3D Mocap</code> &nbsp;•&nbsp; <code>Clinical & Sports Biomechanics</code>
 </p>
 
-<p align="left" style="margin-top: 0;">
-  <a href="#"><img src="https://img.shields.io/badge/Domain-Biomechanics%20%26%20Motion%20AI-0066FF?style=flat-square" alt="Domain" /></a>
-  <a href="mailto:partner@motionbridge.kr"><img src="https://img.shields.io/badge/Inquiry-partner%40motionbridge.kr-0A66C2?style=flat-square" alt="Inquiry" /></a>
-  <a href="https://github.com/whymv"><img src="https://img.shields.io/badge/R%26D%20Lead-%40whymv-238636?style=flat-square&logo=github&logoColor=white" alt="R&D Lead" /></a>
+<p align="center" style="margin-top: 0; margin-bottom: 16px;">
+  <a href="#"><img src="https://img.shields.io/badge/Tech-Biomechanics%20%26%20Motion%20AI-0066FF?style=flat-square" alt="Tech" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Domain-Digital%20Health%20%26%20Rehab-0A66C2?style=flat-square" alt="Domain" /></a>
+  <a href="mailto:partner@motionbridge.kr"><img src="https://img.shields.io/badge/Inquiry-partner%40motionbridge.kr-1F883D?style=flat-square" alt="Inquiry" /></a>
+  <a href="https://github.com/whymv"><img src="https://img.shields.io/badge/R%26D%20Lead-%40whymv-24292F?style=flat-square&logo=github&logoColor=white" alt="R&D Lead" /></a>
 </p>
 
 </div>
@@ -26,7 +28,6 @@
 * **Advanced AI & Digital Solutions**: Delivers custom AI models and tailored digital health & sports solutions for healthcare platforms, fitness systems, and research partners.
 * **Ready-to-Use Delivery**: Streamlines the entire workflow from simple video input to actionable dashboards and reports ready for immediate field use.
 * **Proven Domain Expertise**: Backed by extensive hands-on experience across hospitals, specialized rehabilitation centers, sports teams, and motion analysis labs.
-
 
 ## 👥 Our Team
 > **From lab innovation to field deployment: Delivering practical, ready-to-deploy solutions through seamless collaboration across R&D researchers, field specialists, and business operations.**  
