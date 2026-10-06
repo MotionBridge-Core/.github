@@ -1,12 +1,12 @@
 <div align="center">
 
 <p align="center" style="margin-bottom: 8px;">
-  <code>Digital Biomarkers</code> &nbsp;•&nbsp; <code>Markerless 3D Mocap</code> &nbsp;•&nbsp; <code>Clinical & Sports Biomechanics</code>
+  <code>Digital Biomarkers</code> &nbsp;•&nbsp; <code>Markerless 3D Motion AI</code> &nbsp;•&nbsp; <code>Clinical & Sports Biomechanics</code>
 </p>
 
 <p align="center" style="margin-top: 0; margin-bottom: 16px;">
   <a href="#"><img src="https://img.shields.io/badge/Tech-Biomechanics%20%26%20Motion%20AI-0066FF?style=flat-square" alt="Tech" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Domain-Digital%20Health%20%26%20Rehab-0A66C2?style=flat-square" alt="Domain" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Domain-Digital%20Health%20%26%20Sports Tech-0A66C2?style=flat-square" alt="Domain" /></a>
   <a href="mailto:partner@motionbridge.kr"><img src="https://img.shields.io/badge/Inquiry-partner%40motionbridge.kr-1F883D?style=flat-square" alt="Inquiry" /></a>
   <a href="https://github.com/whymv"><img src="https://img.shields.io/badge/R%26D%20Lead-%40whymv-24292F?style=flat-square&logo=github&logoColor=white" alt="R&D Lead" /></a>
 </p>
