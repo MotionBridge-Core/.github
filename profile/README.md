@@ -9,9 +9,6 @@
   <a href="https://github.com/whymv"><img src="https://img.shields.io/badge/R%26D%20Lead-%40whymv-238636?style=flat-square&logo=github&logoColor=white" alt="R&D Lead" /></a>
 </p>
 
-> **Building advanced motion analysis technologies and digital solutions for healthcare, sports, and rehabilitation.**  
-> 모션브릿지는 모션 분석 기술을 기반으로 헬스케어, 스포츠, 재활 분야의 실질적인 디지털 솔루션을 연구·개발합니다.
-
 </div>
 
 
