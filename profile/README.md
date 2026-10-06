@@ -14,20 +14,20 @@
 </div>
 
 
-## 🎯 What We Do (Core Solutions)
+## 🔬 Core Capabilities & Solutions
 
-### 1. Marker-less Motion Capture & Sports Performance
-* **Marker-less 3D Kinematics**: Captures precise 3D joint kinematics directly from video feeds without physical markers or cumbersome preparation.
-* **Elite Sports Solutions**: Delivers actionable insights for injury prevention and performance optimization by analyzing sport-specific mechanics (racket sports, throwing, hopping, cutting, and landing).
+### 1. Markerless 3D Kinematics & Motion AI
+* **Video-Based 3D Kinematics**: Computes laboratory-grade 3D joint angles and spatial-temporal parameters directly from standard video feeds without physical markers.
+* **Neuromechanical Modeling**: Integrates computational biomechanics and musculoskeletal models to translate raw motion into quantitative, actionable movement data.
 
-### 2. Gait & Functional Movement Analysis
-* **Precision Gait Analysis**: Quantifies gait cycles, bilateral symmetry, and balance metrics to evaluate dynamic stability and detect abnormal movement patterns.
-* **Functional Movement Assessment**: Objectively assesses motor function for rehabilitation patients, daily living activities, and elderly functional evaluations.
+### 2. Clinical Gait & Functional Assessment
+* **Precision Gait Kinematics**: Quantifies gait cycle phases, bilateral symmetry, and balance metrics to evaluate dynamic stability and detect abnormal movement patterns.
+* **Functional Movement Assessment**: Objectively assesses motor capacity for clinical patients, post-rehabilitation conditioning, daily mobility restoration, and senior functional evaluations.
 
-### 3. Custom AI Solutions & Enterprise R&D
-* **Advanced AI & Digital Solutions**: Delivers custom AI models and tailored digital health & sports solutions for healthcare platforms, fitness systems, and research partners.
-* **Ready-to-Use Delivery**: Streamlines the entire workflow from simple video input to actionable dashboards and reports ready for immediate field use.
-* **Proven Domain Expertise**: Backed by extensive hands-on experience across hospitals, specialized rehabilitation centers, sports teams, and motion analysis labs.
+### 3. Enterprise Solutions & Professional Education
+* **Custom AI & Digital Solutions**: Delivers custom AI models and tailored digital health & sports solutions for hospitals, digital healthcare platforms, and research partners.
+* **Professional Education & Training**: Delivers comprehensive online and offline educational programs—translating advanced sports science knowledge and evidence-based training methodologies into practical field applications for coaches, trainers, and movement practitioners.
+* **Proven Domain Expertise**: Backed by extensive hands-on experience across clinical rehabilitation centers, athlete performance facilities, and in-house training labs.
 
 ## 👥 Our Team
 > **From lab innovation to field deployment: Delivering practical, ready-to-deploy solutions through seamless collaboration across R&D researchers, field specialists, and business operations.**  
