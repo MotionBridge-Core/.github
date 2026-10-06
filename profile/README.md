@@ -31,26 +31,25 @@
 
 ## 👥 Our Team
 > **From lab innovation to field deployment: Delivering practical, ready-to-deploy solutions through seamless collaboration across R&D researchers, field specialists, and business operations.**  
-> 연구실의 첨단 기술을 현장으로: 연구진, 현장 전문가, 비즈니스 운영팀의 협업을 통해 즉시 적용 가능한 실용적인 솔루션을 제공합니다.
 
 ### 🏢 Business & Operations
 
 | Role | Member | Contact | Focus Areas |
-| :--- | :--- | :--- | :--- |
-| **CEO** | 이승룡 (Seung-ryoung Lee) | [ceo@motionbridge.kr](mailto:ceo@motionbridge.kr) | Business Strategy, Strategic Partnerships, Growth & Expansion |
-| **Executive Director** | 김건우 (Geon-woo Kim) | [partner@motionbridge.kr](mailto:partner@motionbridge.kr) | Business Operations, Organizational Management, Project Execution |
+| :--- | :---------------------------------- | :--- | :--- |
+| **CEO** | Seung&#8209;ryoung&nbsp;Lee<br/><sub>(이승룡)</sub> | [ceo@motionbridge.kr](mailto:ceo@motionbridge.kr) | Business Strategy, Strategic Partnerships, Growth & Expansion |
+| **Executive Director** | Geon&#8209;woo&nbsp;Kim<br/><sub>(김건우)</sub> | [partner@motionbridge.kr](mailto:partner@motionbridge.kr) | Business Operations, Organizational Management, Project Execution |
 
 ### 🔬 Research & Development
 
 | Role | Member | GitHub | Focus Areas |
-| :--- | :--- | :--- | :--- |
-| **R&D Director** | 양종호 (Jongho Yang) | [@whymv](https://github.com/whymv) | Motor Control & Biomechanics, Motion Analysis Pipeline, AI-Driven Solutions |
-| **Manager** | 김나연 (Na-yeon Kim) | [@naeni6v6](https://github.com/naeni6v6) | Data Engineering, Software Development, System Architecture & UI |
+| :--- | :---------------------------------- | :--- | :--- |
+| **R&D Director** | Jong&#8209;ho&nbsp;Yang<br/><sub>(양종호)</sub> | [@whymv](https://github.com/whymv) | Motor Control & Biomechanics, Motion Analysis Pipeline, AI-Driven Solutions |
+| **Manager** | Na&#8209;yeon&nbsp;Kim<br/><sub>(김나연)</sub> | [@naeni6v6](https://github.com/naeni6v6) | Data Engineering, Software Development, System Architecture & UI |
 
 ### 🏃‍♂️ In-House Field & Training Centers
 *Internal specialized centers operated by MotionBridge for movement training and real-world field verification.*
 
 | Center | Focus Areas | Official Channel |
 | :--- | :--- | :--- |
-| **라곰 (Lagom Rehab)** | Rehabilitation Exercise, Functional Training | [@lagom_rehab](https://www.instagram.com/lagom_rehab/) |
-| **디에이피 (DAP Lab)** | Sports Performance, Athlete Conditioning | [@data_analysis_performance_lab](https://www.instagram.com/data_analysis_performance_lab/) |
+| **Lagom Rehab**<br/><sub>(라곰)</sub> | Rehabilitation Exercise, Functional Training | [@lagom_rehab](https://www.instagram.com/lagom_rehab/) |
+| **DAP Lab**<br/><sub>(디에이피)</sub> | Sports Performance, Athlete Conditioning | [@data_analysis_performance_lab](https://www.instagram.com/data_analysis_performance_lab/) |
